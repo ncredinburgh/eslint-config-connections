@@ -1,5 +1,7 @@
 # eslint-config-connections
 
+[![Build Status](https://travis-ci.org/NCR-CoDE/eslint-config-connections.svg?branch=master)](https://travis-ci.org/NCR-CoDE/eslint-config-connections)
+
 Shared configurations for linting with [ESLint](http://eslint.org/) used by NCR's [Connections](http://ncredinburgh.com/projects/connections/) team.
 The current (3.x) release supports ESLint 1.x.
 
