@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-connections",
+  "version": "3.0.0",
+  "main": "index.js",
+  "description": "ESLint shareable config used by NCR's Connections team",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NCR-CoDE/update-release-set.git"
+  },
+  "eslintConfig": {
+    "extends": "./defaults.json",
+    "env": {
+      "node": true
+    }
+  },
+  "scripts": {
+    "test": "eslint *.js"
+  },
+  "devDependencies": {
+    "eslint": "^1.0.0"
+  },
+  "files": ["*.js", "defaults.json"]
+}
