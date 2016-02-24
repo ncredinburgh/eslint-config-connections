@@ -21,12 +21,12 @@ $ npm install --save-dev eslint-plugin-angular
 
 To enable the default rules, simply extend them in your eslint rc, for example with YAML:
 
-```
+```yaml
 extends: connections-sdk
 ```
 
 To use the angular-specific rules  extend the angular rules within your eslintrc file:
 
-```
+```yaml
 extends: connections-sdk/angular
 ```
