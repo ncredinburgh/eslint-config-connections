@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-connections",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "main": "index.js",
   "description": "ESLint shareable config used by NCR's Connections team",
   "repository": {
