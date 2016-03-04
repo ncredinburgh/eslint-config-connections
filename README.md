@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/NCR-CoDE/eslint-config-connections.svg?branch=master)](https://travis-ci.org/NCR-CoDE/eslint-config-connections)
 
 Shared configurations for linting with [ESLint](http://eslint.org/) used by NCR's [Connections](http://ncredinburgh.com/projects/connections/) team.
-The current (3.x) release supports ESLint 1.x.
+The current (4.x) release supports ESLint 1.x.
 
 Whilst these rules mandate 2-space indentation, mandatory semi-colons and single quote strings they do not enforce any style beyond that, concentrating instead on rules that catch errors.
 
